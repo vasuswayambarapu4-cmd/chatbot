@@ -1,0 +1,17 @@
+chatbot code
+print("Chatbot: Hello! Type 'exit' to end the chat.")
+
+while True:
+    user = input("You: ").lower()
+
+    if user == "hello" or user == "hi":
+        print("Chatbot: Hi there! How can I help you?")
+    elif "how are you" in user:
+        print("Chatbot: I'm just a program, but I'm doing great!")
+    elif "name" in user:
+        print("Chatbot: I'm a simple rule-based chatbot.")
+    elif "bye" in user or user == "exit":
+        print("Chatbot: Goodbye! Have a great day!")
+        break
+    else:
+        print("Chatbot: Sorry, I don't understand that yet.")
