@@ -1,0 +1,38 @@
+🤖 Simple Rule-Based Chatbot (Python)
+
+A beginner-friendly Python chatbot built using if-elif-else statements.
+This project helps you understand the foundation of how chatbots work before moving into NLP and AI models.
+
+🎯 Objective
+
+Create a simple chatbot that responds based on predefined rules.
+It should read user input, match patterns, and return appropriate responses.
+
+🛠 Tools Used
+
+Python
+
+📘 What You Will Learn
+
+Using input() for user interaction
+
+Using loops to keep the chatbot running
+
+Using if-elif-else to create rule-based responses
+
+Basic structure behind NLP systems
+
+📂 Project Structure
+Chatbot/
+│── chatbot.py       # Main chatbot script
+└── README.md
+
+▶️ How It Works
+
+The user types a message
+
+The script checks conditions using if-elif-else
+
+Matches simple keywords like “hello”, “bye”, etc.
+
+Returns a relevant response
