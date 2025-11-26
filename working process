@@ -36,3 +36,11 @@ The script checks conditions using if-elif-else
 Matches simple keywords like “hello”, “bye”, etc.
 
 Returns a relevant response
+✅ Outcome
+
+By completing this task, you will:
+
+✔ Understand how rule-based chatbots work
+✔ Learn input handling
+✔ Learn conditional logic
+✔ Build the foundation for more advanced NLP-based chatbots
